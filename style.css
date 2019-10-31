@@ -81,3 +81,13 @@
 .img-preci{
   height: 214px;
 }
+
+#footer{
+  background:#0c0b0b;
+  height: 65px;
+  color: white;
+
+}
+#footer a {
+  color: white;
+}
