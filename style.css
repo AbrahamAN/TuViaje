@@ -91,9 +91,33 @@
   color: white;
 }
 
+.btn-dark{
+  color: green;
+}
+
 .promotion{
-  margin-top: 13px;
-  margin-bottom: 67px;
-  padding-top: 29px;
+  margin-top: 10px;
+  margin-bottom: 47px;
+  padding-top: 20px;
   color: #6ef90580;
+}
+
+.Us{
+  margin-top: 15px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.image-us img{
+  width: 100%;
+}
+
+.description-us{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-top: 75px;
+  margin-left: 30px;
+  font-size: 20px;
+  
 }
