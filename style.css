@@ -84,10 +84,16 @@
 
 #footer{
   background:#0c0b0b;
-  height: 65px;
+  height: 200px;
   color: white;
-
 }
 #footer a {
   color: white;
+}
+
+.promotion{
+  margin-top: 13px;
+  margin-bottom: 67px;
+  padding-top: 29px;
+  color: #6ef90580;
 }
