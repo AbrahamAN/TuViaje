@@ -159,10 +159,18 @@
 .list-unstyled li a i {
 font-size: 30px;
 color: white;
-display: flex;
+/* display: flex; */
 }
 
 .register {
 display: grid;
+}
+
+.text-register {
+  margin-bottom: 27px;
+}
+
+.text-social {
+  margin-bottom: 20px;
 }
 
