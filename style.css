@@ -70,9 +70,16 @@
   content: "\e906";
   color: #e4405f;
 }
+
+  body{
+    background: #d8dade57;
+  }
+
   body, nav{
     font-family: 'Roboto Slab', serif;
   }
+
+  
 
   .icon-travel {
       color: white;
@@ -149,7 +156,7 @@
 }
 
 
-.list-unstyled li a i{
+.list-unstyled li a i {
 font-size: 30px;
 color: white;
 display: flex;
@@ -158,3 +165,4 @@ display: flex;
 .register {
 display: grid;
 }
+
